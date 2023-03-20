@@ -1,0 +1,24 @@
+{
+  "name": "cypress-mobile-tvo",
+  "version": "1.0.0",
+  "description": "CYPRESS MOBILE TESTING",
+  "main": "index.js",
+  "scripts": {
+    "test": "CYPRESS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EleniDanessis/cypress-mobile-tvo.git"
+  },
+  "keywords": [
+    "CYPRESS",
+    "MOBILE",
+    "TESTING"
+  ],
+  "author": "EleniDanessis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EleniDanessis/cypress-mobile-tvo/issues"
+  },
+  "homepage": "https://github.com/EleniDanessis/cypress-mobile-tvo#readme"
+}
