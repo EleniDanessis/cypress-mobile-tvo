@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/EleniDanessis/cypress-mobile-tvo/issues"
   },
-  "homepage": "https://github.com/EleniDanessis/cypress-mobile-tvo#readme"
+  "homepage": "https://github.com/EleniDanessis/cypress-mobile-tvo#readme",
+  "dependencies": {
+    "cypress": "^12.8.1"
+  }
 }
